@@ -1,6 +1,7 @@
-# 👋 ¡Hola! Soy Stefan Trifan
+# ¡Hola mundo! Soy Stefan 👋
 
----Soy estudiante de **Ingeniería del Software** y **desarrollador Frontend** con ~3 años creando interfaces **accesibles**, **rápidas** y **mantenibles**. Me interesan especialmente **AppSec / DevSecOps**, buenas prácticas **OOP**, y el desarrollo web moderno.  
+- Soy estudiante de **Ingeniería del Software** y **Desarrollador Frontend** con ~3 años creando interfaces **accesibles**, **rápidas** y **mantenibles**.
+- Me interesan especialmente **AppSec / DevSecOps**, buenas prácticas **OOP**, y el desarrollo web moderno.  
 
 ## 🧪 Mis espacios de trabajo (workspaces)
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
