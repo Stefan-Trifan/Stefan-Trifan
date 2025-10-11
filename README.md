@@ -12,7 +12,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 - **[java-workspace](https://github.com/Stefan-Trifan/java-workspace)** – Estructura profesional de proyectos Java y ejercicios de clase.
 - **[python-workspace](https://github.com/Stefan-Trifan/python-workspace)** – Notebooks, prácticas y scripts de Python.
 
-> Estos repos son mi **cuaderno de trabajo**: experimentos, apuntes, retos y kata.
+> Estos repos son mi cuaderno de trabajo: experimentos, apuntes, retos y kata.
 
 ---
 
