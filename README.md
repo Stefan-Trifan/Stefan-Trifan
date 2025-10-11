@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería del Software** y **desarrollador Frontend** con 
 
 ---
 
-## Mis espacios de trabajo (workspaces)
+## 🧪 Mis espacios de trabajo (workspaces)
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 - **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
@@ -19,13 +19,13 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 ---
 
-## Proyectos web reales (trabajo previo)
+## 🏛️ Proyectos web reales (trabajo previo)
 - **[ITAM-Digital-ExEd](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
 - **[ESIC](https://github.com/Stefan-Trifan/ESIC)** – Landing para ESIC (HTML, CSS, Bootstrap, JS).
 
 ---
 
-## Proyectos personales
+## 🎮 Proyectos personales
 - **[JS-blackjack](https://github.com/Stefan-Trifan/JS-blackjack)** – Lógica de Blackjack en JS.
 - **[JS-galeria-de-imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
 - **[JS-todo-app](https://github.com/Stefan-Trifan/JS-todo-app)** – To-do app con Vite y localStorage.
@@ -33,15 +33,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 ---
 
-## Tech stack (resumen)
-**Lenguajes:** Bash, C, CSS3, Git, Java, JavaScript, Python, SQL, Z80 ASM  
-**Frontend:** Accesibilidad, Bootstrap, CSS3, HTML5, Tailwind    
-**Herramientas:** Amazon Web Services (AWS), Elementor, Excel, Figma, GitHub, IntelliJ, Jira, Jupyter, Linux, MariaDB, Photoshop, SEO, Scrum, Vite, WordPress.  
-**Intereses:** AppSec, DevSecOps, POO limpia, rendimiento web  
-
----
-
-## Contacto
+## 📫 Contacto
 - **Email:** <trfstephan@gmail.com>  
 - **LinkedIn:** [stefan-trifan](https://www.linkedin.com/in/stefan-trifan/)
 - **CV en español:** [Stefan_Trifan_CV_ES.pdf](https://stefan-trifan.github.io/CV/Stefan_Trifan_CV_ES.pdf)  
