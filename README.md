@@ -34,10 +34,10 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ---
 
 ## 🛠️ Tech stack (resumen)
-**Lenguajes:** Bash, C, CSS3, Git, Java, JavaScript, Python, SQL, Tailwind, Z80 ASM
-**Frontend:** Accesibilidad, Bootstrap, CSS3, HTML5, Tailwind  
-**Herramientas:** Amazon Web Services (AWS), Elementor, Excel, Figma, GitHub, IntelliJ, Jira, Jupyter, Linux, MariaDB, Photoshop, SEO, Scrum, Vite, WordPress. 
-**Intereses:** AppSec, DevSecOps, POO limpia, rendimiento web
+**Lenguajes:** Bash, C, CSS3, Git, Java, JavaScript, Python, SQL, Tailwind, Z80 ASM  
+**Frontend:** Accesibilidad, Bootstrap, CSS3, HTML5, Tailwind    
+**Herramientas:** Amazon Web Services (AWS), Elementor, Excel, Figma, GitHub, IntelliJ, Jira, Jupyter, Linux, MariaDB, Photoshop, SEO, Scrum, Vite, WordPress.  
+**Intereses:** AppSec, DevSecOps, POO limpia, rendimiento web  
 
 ---
 
