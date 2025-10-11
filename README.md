@@ -33,5 +33,5 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ## 📫 Contacto
 - **Email:** <trfstephan@gmail.com>  
 - **LinkedIn:** [stefan-trifan](https://www.linkedin.com/in/stefan-trifan/)
-- **CV en español:** [Stefan_Trifan_CV_ES.pdf](https://stefan-trifan.github.io/CV/Stefan_Trifan_CV_ES.pdf)  
+- **CV en Español:** [Stefan_Trifan_CV_ES.pdf](https://stefan-trifan.github.io/CV/Stefan_Trifan_CV_ES.pdf)  
 - **CV in English:** [Stefan_Trifan_CV_EN.pdf](https://stefan-trifan.github.io/CV/Stefan_Trifan_CV_EN.pdf)
