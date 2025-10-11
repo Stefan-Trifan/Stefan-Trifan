@@ -15,7 +15,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 - ☕ **[java-workspace](https://github.com/Stefan-Trifan/java-workspace)** – Estructura profesional de proyectos Java y ejercicios de clase.
 - 🐍 **[python-workspace](https://github.com/Stefan-Trifan/python-workspace)** – Notebooks, prácticas y scripts de Python.
 
-> Estos repos son mi **cuaderno de trabajo vivo**: experimentos, apuntes, retos y kata.
+> Estos repos son mi **cuaderno de trabajo**: experimentos, apuntes, retos y kata.
 
 ---
 
@@ -34,9 +34,9 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ---
 
 ## 🛠️ Tech stack (resumen)
-**Lenguajes:** Java, Python, JavaScript, C, Z80 ASM  
-**Frontend:** HTML5, CSS3, Bootstrap, accesibilidad (WAI-ARIA)  
-**Herramientas:** Git, GitHub, IntelliJ IDEA, VS Code, Jupyter  
+**Lenguajes:** Bash, C, CSS3, Git, Java, JavaScript, Python, SQL, Tailwind, Z80 ASM
+**Frontend:** Accesibilidad, Bootstrap, CSS3, HTML5, Tailwind  
+**Herramientas:** Amazon Web Services (AWS), Elementor, Excel, Figma, GitHub, IntelliJ, Jira, Jupyter, Linux, MariaDB, Photoshop, SEO, Scrum, Vite, WordPress. 
 **Intereses:** AppSec, DevSecOps, POO limpia, rendimiento web
 
 ---
