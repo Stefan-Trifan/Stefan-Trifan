@@ -6,21 +6,14 @@ Soy estudiante de **Ingeniería del Software** y **desarrollador Frontend** con 
 
 ---
 
-## 🧭 En qué ando ahora
-- Profundizando en **Java** y **Python** con enfoque en calidad de código y testing.
-- Prácticas de **seguridad aplicada al software** (AppSec, DevSecOps).
-- Mejora continua de mi **portfolio técnico** y documentación.
-
----
-
 ## 📦 Mis espacios de trabajo (workspaces)
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
+- ⚙️ **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
+- 🌐 **[javascript-workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
+- 🧱 **[Ensamblador-Z80-workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
 - ☕ **[java-workspace](https://github.com/Stefan-Trifan/java-workspace)** – Estructura profesional de proyectos Java y ejercicios de clase.
 - 🐍 **[python-workspace](https://github.com/Stefan-Trifan/python-workspace)** – Notebooks, prácticas y scripts de Python.
-- ⚙️ **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Temario y proyectos en C: asignaturas, ejercicios y exámenes (1º de carrera).
-- 🧱 **[Ensamblador-Z80-workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
-- 🌐 **[javascript-workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
 
 > Estos repos son mi **cuaderno de trabajo vivo**: experimentos, apuntes, retos y kata.
 
@@ -51,7 +44,3 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ## 📫 Contacto
 - ✉️ **Email:** <trfstephan@gmail.com>  
 - 🔗 **LinkedIn:** [stefan-trifan](https://www.linkedin.com/in/stefan-trifan/)
-
----
-
-> _“Build it clean. Make it fast. Keep it secure.”_
