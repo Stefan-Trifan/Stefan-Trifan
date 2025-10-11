@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Stefan Trifan
 
-**Secure Software Engineering Student @ U-tad | Web Development Experience**
-
-Soy estudiante de **Ingeniería del Software** y **desarrollador Frontend** con ~3 años creando interfaces **accesibles**, **rápidas** y **mantenibles**. Me interesan especialmente **AppSec / DevSecOps**, buenas prácticas **OOP**, y el desarrollo web moderno.
+**Secure Software Engineering Student @ U-tad | Web Development Experience**  
 
 ---
 
