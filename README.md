@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Stefan Trifan
 
-<!--
-**Stefan-Trifan/Stefan-Trifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería del Software en U‑TAD  
+💻 Apasionado por el desarrollo en **Java**, **Python** y la **seguridad del software**  
+🚀 Actualmente trabajando en proyectos personales con IntelliJ y GitHub  
+📚 Explorando AppSec, DevSecOps y programación limpia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Repositorios destacados
+
+- 🐍 [`python-workspace`](https://github.com/Stefan-Trifan/python-workspace) – Ejercicios y prácticas en Python
+- ☕ [`java-workspace`](https://github.com/Stefan-Trifan/java-workspace) – Proyectos de Java con estructura profesional
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+Puedes encontrarme en:
+- ✉️ [stefan.trifan@utadstudents.com](mailto:stefan.trifan@utadstudents.com)
+- 🔗 [LinkedIn (opcional)](https://linkedin.com/in/...)
+
+---
