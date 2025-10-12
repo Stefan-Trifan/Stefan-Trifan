@@ -1,6 +1,6 @@
 # ¡Hola mundo! Soy Stefan 👋
 
-- Soy estudiante de Ingeniería del Software y Desarrollador Frontend con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
+- Estudiante de Ingeniería del Software y Desarrollador Frontend con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
 - Me interesan especialmente la seguridad del software, las buenas prácticas SOLID, el desarrollo web, y la experiencia de usuario.  
 
 ## 🧪 Mis espacios de trabajo (workspaces)
