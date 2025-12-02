@@ -17,7 +17,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ## Proyectos universitarios
 Proyectos desarrollados para asignaturas de Ingeniería del Software en U-tad:
 
-- **[Megatronix](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
+- **[Megatronix (C)](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
 
 ---
 
