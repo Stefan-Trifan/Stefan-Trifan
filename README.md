@@ -29,7 +29,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 - **[Aslam New IT](https://www.behance.net/gallery/228003147/Aslam-New-IT-Website)**
 - **[Deproapopa](https://www.behance.net/gallery/228001067/Deproapopa-Website)**
 - **[Finca Fuensanta](https://www.behance.net/gallery/228002609/Finca-Fuensanta-Website)**
-- **[Casa Pedro](https://www.behance.net/gallery/227999779/Casa-Pedro)*
+- **[Casa Pedro](https://www.behance.net/gallery/227999779/Casa-Pedro)**
 
 ---
 
