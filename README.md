@@ -24,12 +24,12 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ## Proyectos Web Reales (trabajo previo)
 - **[ITAM-Digital-ExEd](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
 - **[ESIC](https://github.com/Stefan-Trifan/ESIC)** – Landing para ESIC (HTML, CSS, Bootstrap, JS).
-- **[Esade](https://www.behance.net/gallery/228006159/Esade-Executive-Education-Landing-Page)** 
-- **[IDavinci](https://www.behance.net/gallery/228005725/IDavinci-Website)** 
-- **[Aslam New IT](https://www.behance.net/gallery/228003147/Aslam-New-IT-Website)**
-- **[Deproapopa](https://www.behance.net/gallery/228001067/Deproapopa-Website)**
-- **[Finca Fuensanta](https://www.behance.net/gallery/228002609/Finca-Fuensanta-Website)**
-- **[Casa Pedro](https://www.behance.net/gallery/227999779/Casa-Pedro)**
+- **[Esade](https://www.behance.net/gallery/228006159/Esade-Executive-Education-Landing-Page)** – Desarrollo y maquetación web.
+- **[IDavinci](https://www.behance.net/gallery/228005725/IDavinci-Website)** – Desarrollo y maquetación web.
+- **[Aslam New IT](https://www.behance.net/gallery/228003147/Aslam-New-IT-Website)** – Desarrollo y maquetación web.
+- **[Deproapopa](https://www.behance.net/gallery/228001067/Deproapopa-Website)** – Desarrollo y maquetación web.
+- **[Finca Fuensanta](https://www.behance.net/gallery/228002609/Finca-Fuensanta-Website)** – Desarrollo y maquetación web.
+- **[Casa Pedro](https://www.behance.net/gallery/227999779/Casa-Pedro)** – Desarrollo y maquetación web.
 
 ---
 
@@ -38,7 +38,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 - **[JS-galeria-de-imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
 - **[JS-todo-app](https://github.com/Stefan-Trifan/JS-todo-app)** – To-do app con Vite y localStorage.
 - **[FreeCodeCamp_ResponsiveWebDesign](https://github.com/Stefan-Trifan/FreeCodeCamp_ResponsiveWebDesign)** – Proyectos de la certificación de RWD.
-- **[Curvas Boards](https://www.behance.net/gallery/228005355/Curvas-Boards-Website)** 
+- **[Curvas Boards](https://www.behance.net/gallery/228005355/Curvas-Boards-Website)** – Desarrollo y maquetación web. 
 
 
 ---
