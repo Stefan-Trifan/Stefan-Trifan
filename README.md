@@ -9,10 +9,15 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 - **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
 - **[javascript-workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
 - **[Ensamblador-Z80-workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
-- **[java-workspace](https://github.com/Stefan-Trifan/java-workspace)** – Estructura profesional de proyectos Java y ejercicios de clase.
-- **[python-workspace](https://github.com/Stefan-Trifan/python-workspace)** – Notebooks, prácticas y scripts de Python.
 
 > Estos repos son mi cuaderno de trabajo: experimentos, apuntes, retos y kata.
+
+---
+
+## Proyectos universitarios
+Proyectos desarrollados para asignaturas de Ingeniería del Software en U-tad:
+
+- **[Megatronix](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
 
 ---
 
