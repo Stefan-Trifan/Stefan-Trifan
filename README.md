@@ -16,9 +16,9 @@
 
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
-- **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
-- **[javascript-workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
-- **[Ensamblador-Z80-workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
+- **[C Workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
+- **[JavaScript Workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
+- **[Ensamblador Z80 Workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
 
 > Estos repos son mi cuaderno de trabajo: experimentos, apuntes, retos y kata.
 
@@ -44,7 +44,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 <br>
 
-- **[ITAM-Digital-ExEd](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
+- **[ITAM Digital Executive Education](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
 - **[ESIC](https://github.com/Stefan-Trifan/ESIC)** – Landing para ESIC (HTML, CSS, Bootstrap, JS).
 - **[Esade](https://www.behance.net/gallery/228006159/Esade-Executive-Education-Landing-Page)** – Desarrollo y maquetación web.
 - **[IDavinci](https://www.behance.net/gallery/228005725/IDavinci-Website)** – Desarrollo y maquetación web.
@@ -62,10 +62,10 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 <br>
 
-- **[JS-blackjack](https://github.com/Stefan-Trifan/JS-blackjack)** – Lógica de Blackjack en JS.
-- **[JS-galeria-de-imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
-- **[JS-todo-app](https://github.com/Stefan-Trifan/JS-todo-app)** – To-do app con Vite y localStorage.
-- **[FreeCodeCamp_ResponsiveWebDesign](https://github.com/Stefan-Trifan/FreeCodeCamp_ResponsiveWebDesign)** – Proyectos de la certificación de RWD.
+- **[JS Blackjack](https://github.com/Stefan-Trifan/JS-blackjack)** – Lógica de Blackjack en JS.
+- **[JS Galeria de Imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
+- **[JS Todo-App](https://github.com/Stefan-Trifan/JS-todo-app)** – To-do app con Vite y localStorage.
+- **[FreeCodeCamp - Responsive Web Design](https://github.com/Stefan-Trifan/FreeCodeCamp_ResponsiveWebDesign)** – Proyectos de la certificación de RWD.
 - **[Curvas Boards](https://www.behance.net/gallery/228005355/Curvas-Boards-Website)** – Desarrollo y maquetación web. 
 
 </details>
