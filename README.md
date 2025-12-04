@@ -11,7 +11,7 @@
 ---
 
 <details>
-<summary><strong>Mis Espacios de Trabajo (workspaces)</strong></summary>
+<summary><strong>Mis Espacios de Trabajo (Workspaces)</strong></summary>
 
 <br>
 
@@ -41,7 +41,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 <details>
-<summary><strong>Proyectos Web Reales (trabajo previo)</strong></summary>
+<summary><strong>Proyectos Web Reales (Trabajo Previo)</strong></summary>
 
 <br>
 
