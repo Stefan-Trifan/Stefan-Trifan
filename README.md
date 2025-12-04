@@ -5,7 +5,7 @@
 
 <br>
 
-- Estudiante de Ingeniería del Software y Desarrollador Frontend con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
+- Estudiante de <strong>Ingeniería del Software</strong> y <strong>Desarrollador Frontend</strong> con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
 
 ---
 
