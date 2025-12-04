@@ -1,7 +1,13 @@
-<!-- Encabezado visual simple -->
+<!-- Encabezado visual simple
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
+</div> -->
+
+<!-- Encabezado visual simple -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4D6270,100:4D6270&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
 </div>
+
 
 <br>
 
