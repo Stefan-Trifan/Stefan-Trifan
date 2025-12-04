@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B1E1E,50:B03030,100:3A0F0F&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A0A0A,50:5A1A1A,100:2A2A2A&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
 </div>
-
-
-
-
-
-
 
 <br>
 
