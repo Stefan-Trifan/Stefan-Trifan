@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
 </div>
 
----
+<br>
 
 - Estudiante de Ingeniería del Software y Desarrollador Frontend con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
 - Me interesan especialmente la seguridad del software, las buenas prácticas SOLID, el desarrollo web, y la experiencia de usuario.  
