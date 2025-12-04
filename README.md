@@ -10,7 +10,7 @@
 ---
 
 <details>
-<summary><strong>Mis Espacios de Trabajo (Workspaces)</strong></summary>
+<summary><h3>Mis Espacios de Trabajo (Workspaces)</h3></summary>
 
 <br>
 
@@ -27,7 +27,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ---
 
 <details>
-<summary><strong>Proyectos Universitarios (U-tad)</strong></summary>
+<summary><h3>Proyectos Universitarios (U-tad)</h3></summary>
 
 <br>
 
@@ -40,7 +40,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 <details>
-<summary><strong>Proyectos Web Reales (Trabajo Previo)</strong></summary>
+<summary><h3>Proyectos Web Reales (Trabajo Previo)</h3></summary>
 
 <br>
 
@@ -58,7 +58,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 <details>
-<summary><strong>Proyectos personales</strong></summary>
+<summary><h3>Proyectos personales</h3></summary>
 
 <br>
 
@@ -73,7 +73,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 
-<strong>📫 Contacto</strong>
+<h3>📫 Contacto</h3>
 
 - **Email:** <trfstephan@gmail.com>  
 - **LinkedIn:** [stefan-trifan](https://www.linkedin.com/in/stefan-trifan/)
