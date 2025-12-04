@@ -10,7 +10,7 @@
 ---
 
 <details>
-<summary><strong>Mis Espacios de Trabajo (Workspaces)</strong></summary>
+<summary><strong>Ver Mis Espacios de Trabajo (Workspaces)</strong></summary>
 
 <br>
 
@@ -27,7 +27,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 ---
 
 <details>
-<summary><strong>Proyectos Universitarios (U-tad)</strong></summary>
+<summary><strong>Ver Proyectos Universitarios (U-tad)</strong></summary>
 
 <br>
 
@@ -40,7 +40,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 <details>
-<summary><strong>Proyectos Web Reales (Trabajo Previo)</strong></summary>
+<summary><strong>Ver Proyectos Web Reales (Trabajo Previo)</strong></summary>
 
 <br>
 
@@ -58,7 +58,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 ---
 
 <details>
-<summary><strong>Proyectos personales</strong></summary>
+<summary><strong>Ver Proyectos personales</strong></summary>
 
 <br>
 
