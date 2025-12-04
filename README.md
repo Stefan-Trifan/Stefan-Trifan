@@ -6,6 +6,7 @@
 <br>
 
 - Estudiante de <strong>Ingeniería del Software</strong> y <strong>Desarrollador Frontend</strong> con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
+- Actualmente cursando la <strong>Mención en Ciberseguridad</strong>, con formación en <strong>hacking ético, análisis forense, bastionado, análisis de malware y desarrollo de herramientas de seguridad</strong>.
 
 ---
 
