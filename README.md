@@ -1,16 +1,6 @@
-<!-- E
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E6E9EA,50:C9D1D9,100:9DA5AE&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=000000" />
-</div> -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:120000,50:5C0000,100:1A1A1A&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B1E1E,50:B03030,100:3A0F0F&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
 </div>
-
 
 
 
