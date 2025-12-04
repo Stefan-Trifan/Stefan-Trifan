@@ -10,7 +10,7 @@
 
 ---
 
-## Mis Espacios de Trabajo (workspaces)
+### Mis Espacios de Trabajo (workspaces)
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 - **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
@@ -21,14 +21,14 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 ---
 
-## Proyectos Universitarios (U-tad)
+### Proyectos Universitarios (U-tad)
 Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 - **[Megatronix](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
 
 ---
 
-## Proyectos Web Reales (trabajo previo)
+### Proyectos Web Reales (trabajo previo)
 - **[ITAM-Digital-ExEd](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
 - **[ESIC](https://github.com/Stefan-Trifan/ESIC)** – Landing para ESIC (HTML, CSS, Bootstrap, JS).
 - **[Esade](https://www.behance.net/gallery/228006159/Esade-Executive-Education-Landing-Page)** – Desarrollo y maquetación web.
@@ -40,7 +40,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 ---
 
-## Proyectos personales
+### Proyectos personales
 - **[JS-blackjack](https://github.com/Stefan-Trifan/JS-blackjack)** – Lógica de Blackjack en JS.
 - **[JS-galeria-de-imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
 - **[JS-todo-app](https://github.com/Stefan-Trifan/JS-todo-app)** – To-do app con Vite y localStorage.
@@ -50,7 +50,7 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 ---
 
-## 📫 Contacto
+### 📫 Contacto
 - **Email:** <trfstephan@gmail.com>  
 - **LinkedIn:** [stefan-trifan](https://www.linkedin.com/in/stefan-trifan/)
 - **CV en Español:** [Stefan_Trifan_CV_ES.pdf](https://stefan-trifan.github.io/CV/Stefan_Trifan_CV_ES.pdf)  
