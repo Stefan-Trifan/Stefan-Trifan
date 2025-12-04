@@ -13,6 +13,8 @@
 <details>
 <summary><strong>Mis Espacios de Trabajo (workspaces)</strong></summary>
 
+<br>
+
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 - **[C-workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C: asignaturas, ejercicios y exámenes.
@@ -28,6 +30,8 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 <details>
 <summary><strong>Proyectos Universitarios (U-tad)</strong></summary>
 
+<br>
+
 Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 - **[Megatronix](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
@@ -38,6 +42,8 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 <details>
 <summary><strong>Proyectos Web Reales (trabajo previo)</strong></summary>
+
+<br>
 
 - **[ITAM-Digital-ExEd](https://github.com/Stefan-Trifan/ITAM-Digital-ExEd)** – Sitio optimizado y accesible (HTML, CSS, Bootstrap, JS, performance).
 - **[ESIC](https://github.com/Stefan-Trifan/ESIC)** – Landing para ESIC (HTML, CSS, Bootstrap, JS).
@@ -54,6 +60,8 @@ Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 <details>
 <summary><strong>Proyectos personales</strong></summary>
+
+<br>
 
 - **[JS-blackjack](https://github.com/Stefan-Trifan/JS-blackjack)** – Lógica de Blackjack en JS.
 - **[JS-galeria-de-imagenes](https://github.com/Stefan-Trifan/JS-galeria-de-imagenes)** – Galería interactiva con carrusel.
