@@ -4,8 +4,9 @@
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4D6270,100:1F2A33&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D8DEE1,100:D8DEE1&height=120&section=header&text=%C2%A1Hola%20mundo!%20Soy%20Stefan%20%F0%9F%91%8B&fontSize=30&fontColor=000000" />
 </div>
+
 
 
 <br>
