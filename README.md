@@ -18,7 +18,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 - **[C Workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C, asignaturas y ejercicios.
 - **[C++ Workspace](https://github.com/Stefan-Trifan/cpp-workspace)** – Contenidos de Análisis y Diseño de Algoritmos.
-- **[Java Workspace](https://github.com/Stefan-Trifan/java-workspace)** – Proyectos en Java: asignaturas, ejercicios y proyectos.
+- **[Java Workspace](https://github.com/Stefan-Trifan/java-workspace)** – Proyectos y ejercicios en Java. Programación Orientada a Objetos. Patrones de Diseño.
 - **[JavaScript Workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
 - **[Ensamblador Z80 Workspace](https://github.com/Stefan-Trifan/Ensamblador-Z80-workspace)** – Prácticas de Arquitectura de Ordenadores con ensamblador Z80 (editor Zeus).
 
