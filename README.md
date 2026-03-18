@@ -4,8 +4,7 @@
 
 <br>
 
-- Estudiante de <strong>Ingeniería del Software</strong> y <strong>Desarrollador Frontend</strong> con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles.
-- Especializándome en <strong>Ciberseguridad</strong>, trabajando áreas como <strong>seguridad ofensiva, análisis forense, bastionado, análisis de malware y desarrollo de tooling</strong>.
+- Estudiante de <strong>Ingeniería del Software</strong> y <strong>Desarrollador Frontend</strong> con ~3 años de experiencia creando interfaces web altamente optimizadas y accesibles. Actualmente especializándome en <strong>Ciberseguridad</strong>.
 
 ---
 
