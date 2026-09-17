@@ -38,7 +38,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 Proyectos desarrollados para asignaturas de Ingeniería del Software:
 
 - **[Megatronix](https://github.com/Stefan-Trifan/Megatronix)** – Simulador de caché *direct-mapped* en C. Procesa accesos reales a RAM, decodifica direcciones (tag/set/offset) y gestiona hits/fallos entre caché y memoria.
-- **[Wanna-Smile](https://github.com/Stefan-Trifan/wanna-smile)** - Simulador de ciberseguridad en Java por consola. Permite configurar sistema, malware y antivirus, ejecutar análisis rápido/profundo/heurístico y aplicar respuestas de detección y contención usando POO y patrones como Strategy, State, Template Method, Facade, Decorator, Factory y Singleton.
+- **[Wanna-Smile](https://github.com/Stefan-Trifan/wanna-smile)** - Simulador de ciberseguridad en Java por consola. Permite configurar sistema, malware y antivirus, ejecutar análisis rápido/profundo/heurístico y aplicar respuestas de detección y contención usando POO y los patrones: Strategy, State, Template Method, Facade, Decorator, Factory y Singleton.
 
 </details>
 
