@@ -15,7 +15,7 @@
 
 Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
-- **[C Workspace](https://github.com/Stefan-Trifan/C-workspace)** – Proyectos en C, asignaturas y ejercicios.
+- **[C Workspace](https://github.com/Stefan-Trifan/C-workspace)** - Proyectos en C, asignaturas y ejercicios.
 - **[C++ Workspace](https://github.com/Stefan-Trifan/cpp-workspace)** – Contenidos de Análisis y Diseño de Algoritmos.
 - **[Java Workspace](https://github.com/Stefan-Trifan/java-workspace)** – Proyectos y ejercicios en Java. Programación Orientada a Objetos. Patrones de Diseño.
 - **[JavaScript Workspace](https://github.com/Stefan-Trifan/javascript-workspace)** – Curso de JS moderno (DOM, BOM, APIs, módulos) + apuntes.
@@ -24,7 +24,7 @@ Repos donde practico sintaxis, ejercicios de clase y laboratorios por lenguaje:
 
 
 
-> Estos repos son mi cuaderno de trabajo: experimentos, apuntes, retos y kata.
+> Estos repos son mi cuaderno de trabajo: experimentos, apuntes y retos.
 
 </details>
 
